@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on: **Spring Boot Chat App, React Projects, Flask-based Voice Assistant**
 - 🌱 I’m learning: **AI/ML, Cyber Security, Game Development with Godot**
 - 💬 Ask me about: **React, Spring Boot, Flask, MongoDB, Firebase**
-- 📫 How to reach me: **[LinkedIn](www.linkedin.com/in/prem-kumar-pragada-64a283256)** | **Email**: `pragadaprem143@gmail.com`
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/prem-kumar-pragada-64a283256)** | **Email**: `pragadaprem143@gmail.com`
 - ⚡ Fun fact: *I love turning ideas into reality through code.*
 
 ---
@@ -42,5 +42,5 @@
 
 ### 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/prem-kumar-pragada-64a283256)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-kumar-pragada-64a283256)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pragadaprem143@gmail.com)
