@@ -33,7 +33,7 @@
 
 ### 🔥 Top Projects
 
-- 🗨️ [Spring Boot Chat App](https://github.com/premkumar3616/spring-chatapp)
+- 🗨️ [Spring Boot Chat App](https://github.com/premkumar3616/junk-chat)
 - 🎙️ [Voice Assistant (Flask)](https://github.com/premkumar3616/voice-assistant)
 - 🛒 [Shopping Cart - React](https://github.com/premkumar3616/shopping-cart)
 - 🍽️ [Food Recipe App](https://github.com/premkumar3616/food-recipe)
